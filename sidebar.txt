@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sjd:home|Door43 (sjd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sjd|d43-sjd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sjd/archive/master.zip|d43-sjd.zip]]
+
+**Recent Changes**
+{{changes>ns = sjd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sjd|Ethnologue data]]
+
